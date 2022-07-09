@@ -4,4 +4,4 @@ HelloWorldObjs는 3D 컴퓨터 그래픽에서 알고리즘 렌더링이나 시�
 
 ## Related Documents
 
-- <https://en.wikipedia.org/wiki/List_of_common_3D_test_models>
+- [List of common 3D test models - Wikipedia](https://en.wikipedia.org/wiki/List_of_common_3D_test_models)
